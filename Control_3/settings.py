@@ -91,7 +91,7 @@ DATABASES = {
         'PORT': '',
 
         'OPTIONS': {
-            'driver': 'SQL Server Native Client 11.0',
+            'driver': 'ODBC Driver 13 for SQL Server',
         },
     },
 }
