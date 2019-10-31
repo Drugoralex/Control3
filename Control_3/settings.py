@@ -92,8 +92,8 @@ DATABASES = {
 
         'OPTIONS': {
             'driver': 'SQL Server Native Client 11.0',
-        },
-    },
+        }
+    }
 }
 
 
